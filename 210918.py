@@ -6,5 +6,5 @@
 5. Поддержка.
 
 
-SWEBOOK от IEEE
+SWEBOK от IEEE
 '''
